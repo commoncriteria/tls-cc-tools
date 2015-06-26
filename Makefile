@@ -1,5 +1,5 @@
 CC=gcc
-OSSL=/home/kevin/opt/openssl-1.0.1c
+OSSL=/location/of/openssl
 CFLAGS=-c -Wall -g -D_GNU_SOURCE -I$(OSSL)/include
 SOURCES=$(wildcard *.c)
 LDFLAGS=

@@ -1,4 +1,4 @@
-tls-cc-verifier
+tls-cc-tools (formally tls-cc-validator)
 ======================
 
 ## About This Project

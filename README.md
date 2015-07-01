@@ -1,4 +1,4 @@
-tls-cc-validator
+tls-cc-checker
 ======================
 
 ## About This Project
